@@ -10,6 +10,10 @@
 
 ---
 
+**This serves as the "Meta-Paradigm" governing all subordinate projects and methodologies. It is not merely a rigid theoretical framework, but a trans-dimensional cognitive lens—a fundamental philosophy of existence. To be precise, these are my personal "retrospective reflections" on the current state of physical reality, captured from a vantage point beyond conventional dimensions. Given the inherent limitations of language in articulating high-order cognition, the following text is but an attempt to map that vision. It does not represent the definitive answer, nor absolute truth; it is intended solely as a heuristic beacon, illuminating the path for others to ascend toward that same perspective.**
+
+---
+
 # ENTROPY INCREASE STUDIES
 
 *"Humanity has long suffered from defying the Heavens, yet also suffered from submitting to them. From this day forth, I defy only the sliver of opportunity, and submit only to the momentum of all things."*
@@ -67,6 +71,10 @@ Humanity has spent the last three hundred years trying to become God, attempting
 > *“为什么总是用99%的付出来得到1%的确定，而不是用1%的引导来获得99%的结果——去做那只扇动翅膀的蝴蝶，而不是试图阻挡龙卷风的人。”*
 
 **开源许可协议：** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+---
+
+**这是所有具体项目及方法论的“母范式”。它并非一套僵化的框架理论，而是一种超越维度的思维方式，甚至可以称之为一种底层哲学。准确地说，这是我个人在抵达某一认知高度、获得全新视角后，对现有物理世界规律的“观后感”。由于语言本身在描述高维认知时的局限性，以下文字仅作为捕捉那个视角的尝试。它不代表最终标准，亦非绝对真理，仅仅是为后来者通往那个视角所点燃的一盏指路明灯。**
 
 ---
 
