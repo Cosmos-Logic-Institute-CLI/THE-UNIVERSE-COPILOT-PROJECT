@@ -10,6 +10,118 @@
 
 https://doi.org/10.5281/zenodo.18616710
 
+https://github.com/Cosmos-Logic-Institute-CLI
+
+<details>
+  <summary>Statement/声明</summary>
+
+  ### Intellectual Property and Academic Declaration
+
+**Governed by: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+
+I. Definition of Protected Subject Matter
+
+The scope of protection for this project is not limited to literal expression. Pursuant to the definition of **"Derivative Works"** under the CC BY-NC-SA 4.0 license, protection extends to:
+
+1. **Core Logical Architecture:** Including, but not limited to, the deep expressive content, engineering blueprints, frameworks, architectures, methodologies, paradigms, algorithmic logic chains, modular inference paths, and solution models for specific problems inherent in the text of this project.
+2. **Logical Slicing and Feature Values:** Obfuscation via "dimensionality-reduction" or "logical slicing" is strictly prohibited. Any subsequent research containing the core logical contributions of this project shall be deemed a **Derivative Work**.
+3. **Determination of Substantial Similarity:** Regardless of "terminology washing" (relabeling) or stylistic rewriting, any work whose underlying logic constitutes **"Substantial Similarity"** to the evidence-preserved content of this project is bound by this declaration.
+
+II. Mandatory Attribution Obligations (BY)
+
+Any citation, adaptation, or partial extraction of this project must strictly adhere to the following attribution standards:
+
+* **Full Traceability:** The original link and **DOI** of this project must be clearly labeled in a prominent position (e.g., Abstract, Introduction, or the first entry of the References) of the resulting work (papers, patents, technical documents).
+* **Non-delegable Responsibility:** Based on the principle of ultimate accountability for academic integrity, supervisors or Principal Investigators (PIs) bear the burden of verification. Omissions or misattributions cited as "student error" or "information asymmetry" shall be deemed a breach of the CC BY terms.
+* **Source Correction:** For content already published without compliant citation, the Rights Holder reserves the right to demand an **Academic Erratum** or a **Formal Retraction**.
+
+III. Non-Commercial Restrictions (NC)
+
+**All forms of commercial arbitrage are strictly prohibited:**
+
+* **Prohibition of Private Patenting:** It is strictly forbidden to apply for exclusive patents based on the core logic of this project for the purpose of paid licensing. Such actions violate the NC requirement that the use must not be "primarily intended for or directed towards commercial advantage or monetary compensation."
+* **Prohibition of Paid Services:** No institution or individual may package paid products or provide fee-based consulting based on this project.
+* **Defensive Counterstrike:** In response to malicious patenting, the Rights Holder declares: Similar equivalent solutions developed based on this content will be released to the public for free in a targeted manner to offset the commercial monopoly of the infringing party.
+
+IV. ShareAlike Requirements (SA)
+
+Under the SA terms, any derivative work that uses, modifies, or is built upon this project **MUST** be distributed under the same CC BY-NC-SA 4.0 license:
+
+* **License Continuity:** This dictates that research results based on this project cannot be converted into "proprietary" or "closed-source" works.
+* **Litigation Proxy Rights:** The Rights Holder hereby grants all compliant users of this project a "Common Defense/Proxy Right." Any violation of the CC BY-NC-SA 4.0 terms by a third party entitles legal users of this project to initiate legal complaints or administrative reports based on this authorization.
+
+V. Enforcement and Remedies
+
+1. **Evidence Preservation:** This project has completed comprehensive web-wide evidence preservation (including timestamps). We continuously monitor academic databases for papers with "consistent directions" and abnormal logical overlap.
+2. **Administrative Intervention:** For infringing acts that remain uncorrected, we will submit evidence packages to relevant Journal Editorial Boards, Degree Committees, and National Intellectual Property Offices to apply for the revocation of non-compliant papers and patents.
+3. **Civil Litigation:** The Rights Holder reserves the right to initiate civil litigation for damages resulting from infringement of attribution rights and breach of contract (the CC license constitutes a binding contract).
+
+VI. Conclusion
+
+Academic honesty is the baseline of scientific research. We urge relevant institutions and individuals to exercise self-discipline and fulfill compliance obligations. The initiators and legal users of this project reserve all rights to protect their legitimate interests through legal channels (including but not limited to civil litigation, administrative reporting, and public condemnation) without further notice.
+
+Declaration of Ethical Condemnation
+
+Please do not weaponize this project by "harvesting" violations and waiting for a specific volume of papers or patents to accumulate before reporting them—only to immediately submit similar content based on this project.
+While such behavior may not technically violate the law, it is a predatory use of this project for competitive gain and is profoundly unethical.
+Please do not purposefully excerpt or adapt the content of this project to place it in easily discoverable locations or mention it around others to "bait" them into infringement. Furthermore, do not claim or imply that the content or extensions of this project are your original work to your supervisors, superiors, or institutions.
+Using this project as a tool for retaliation or personal vendettas is a malicious abuse of open-source spirit and is morally reprehensible.
+
+### 知识产权与学术声明
+
+**依据协议：Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+
+一、 受保护客体之界定
+
+本项目的保护范围不限于字面表述，根据 CC BY-NC-SA 4.0 协议中关于“衍生作品”的定义，保护范围延伸至：
+
+1. **核心逻辑架构：** 包括但不限于本项目所提出的文字所内含的深层表达内容、工程蓝图、框架与架构、方法论、范式、算法逻辑链、模块化推演路径及特定问题的解决方案模型。
+2. **逻辑切片与特征值：** 严禁通过“逻辑切片”进行降维伪装，任何包含本项目核心逻辑贡献的后续研究，均被视为本项目的**衍生作品**。
+3. **实质性相似判定：** 无论是否经过术语洗白或表达方式改写，只要其底层逻辑与本项目存证内容构成“实质性相似”，即受本声明约束。
+
+二、 强制性署名义务（BY）
+
+任何对本项目的引用、改编或部分摘录，必须严格执行以下署名标准：
+
+* **完整追溯：** 必须在成果（论文、专利、技术文档）的显著位置（如摘要、引言或参考文献首位）标注本项目原始链接及 **DOI**。
+* **责任不可推卸：** 依据“学术诚信最终责任制”，导师或项目负责人负有审核义务。任何以“学生操作”、“信息差”为由的漏引、错引，均视为对 CC BY 条款的违约。
+* **溯源修正：** 已发表但未合规引用的内容，权利人保留要求相关方进行“学术勘误”或“撤回发表”的权利。
+
+三、 非商业性限制（NC）
+
+**严禁任何形式的商业套利行为：**
+
+* **禁止私有化专利：** 严禁将本项目核心逻辑申请为排他性专利并进行收费授权。此行为违反了 NC 条款中关于“不得以获取商业利益为主要目的”的规定。
+* **禁止付费服务：** 任何机构或个人不得基于本项目封装付费产品或提供收费咨询。
+* **防御性反击：** 针对恶意专利化行为，权利人声明：将使用基于本内容开发的类似等效方案，针对性免费开放，以抵消侵权方的商业垄断。
+
+四、 相同方式共享（SA）
+
+根据 SA 条款，任何使用、修改或基于本项目开发的衍生作品，**必须**采用相同的 CC BY-NC-SA 4.0 协议进行分发：
+
+* **协议延续性：** 这意味着你不能将基于本项目的研究成果转为“私有”或“闭源”。
+* **法律诉讼代理权：** 本项目权利人特此授予所有遵循本协议的合法使用者“共同维权代理权”。任何违反本项目 CC BY-NC-SA 4.0 条款的行为，本项目合法使用者均有权基于本授权发起法律申诉或行政举报。
+
+五、 侵权追诉与救济途径
+
+1. **证据保全：** 本项目已完成全网内容存证（含时间戳）。我们将持续监测学术数据库中“方向一致”且逻辑重合度异常的论文。
+2. **行政干预：** 针对拒不修正的侵权行为，我们将向相关期刊编委会、学位委员会及国家知识产权局提交证据包，申请撤销违规论文及专利。
+3. **民事诉讼：** 权利人保留就侵犯署名权、违反合同约定（CC协议即合同）造成的损失提起民事诉讼的权利。
+
+六、 结语
+
+诚实学术是科研的底线。我们敦促相关机构与个人自律，主动履行合规义务。本项目的发起人与合法使用者都将保留在不另行通知的情况下，通过法律途径（包括但不限于民事诉讼、行政举报、公开谴责）维护自身合法权益的全部权利。
+
+对于某些行为的谴责声明：
+
+请不要在保存该项目合法证据之后等待他人违反协议，并在这些论文与专利到达一定数量或者某些重要时刻时举报，然后立刻基于本项目与被举报内容书写相似内容提交。
+这种将该项目当成竞争手段与利益获取的行为，虽然可能不违法，但是这并不道德！
+
+请不要将本项目的内容有目的的进行节选或者改编，然后放置在易被发现的位置或者有意无意在他人身边提起，更不要暗示或者声明本项目内容以及延伸内容是自己的原创然后提交给导师、上司、机构等。
+这种将该项目当成打击报复的行为，虽然可能找不到违法证据，但是这更不道德！
+
+</details>
+
 ---
 
 **This serves as the "Meta-Paradigm" governing all subordinate projects and methodologies. It is not merely a rigid theoretical framework, but a trans-dimensional cognitive lens—a fundamental philosophy of existence. To be precise, these are my personal "retrospective reflections" on the current state of physical reality, captured from a vantage point beyond conventional dimensions. Given the inherent limitations of language in articulating high-order cognition, the following text is but an attempt to map that vision. It does not represent the definitive answer, nor absolute truth; it is intended solely as a heuristic beacon, illuminating the path for others to ascend toward that same perspective.**
